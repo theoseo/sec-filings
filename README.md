@@ -2,4 +2,6 @@
 
 ### 13F-HR
 
-[v] Quater data test
+[x] Quater data test
+[ ] Multiprocessing test
+[ ] Recent filing test
